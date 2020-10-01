@@ -1,4 +1,4 @@
-# Drupal Twig Cheat Sheet (of stuff I figured out after Googling didn't help)
+# Drupal Twig
 
 ## Accessing Entities
 
